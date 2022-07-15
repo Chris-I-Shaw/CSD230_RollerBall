@@ -1,0 +1,10 @@
+<!--
+Chris Shaw
+Mobile Programming
+3/18/20
+Find me App
+-->
+<resources>
+    <string name="app_name">Find Me</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
